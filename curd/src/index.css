@@ -1,0 +1,16 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+::selection{
+  background-color: #2a2a2a;
+  color: #ffffff;
+}
+
+button.bg-success:active{
+  background-color: #12b800 !important;
+}
+button.bg-danger:active{
+  background-color: rgb(215, 0, 0) !important;
+}
